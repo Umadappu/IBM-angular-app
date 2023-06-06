@@ -1,0 +1,34 @@
+@import "bootstrap/scss/bootstrap";
+
+html,
+body {
+  height: 100%;
+}
+body {
+  margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+
+  a {
+    color: #037092;
+  }
+}
+
+.app-header {
+  background-color: #037092;
+  color: white;
+}
+
+/* Custom styles */
+.body-container {
+  min-height: 92vh;
+}
+
+.product-table table thead {
+  background-color: #ccc;
+}
+
+.footer {
+  width: 100%;
+  background-color: #bbb;
+  color: #222;
+}
