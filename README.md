@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Added NgRX store to the Application - Used Actions, Effects, Selectors and Reducers to store the data and fetch.
+
+## Added Bootstrap framework for styling and responsive
+
+## Added Angular Material for Table data and pagination
