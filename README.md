@@ -28,6 +28,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Added NgRX store to the Application - Used Actions, Effects, Selectors and Reducers to store the data and fetch.
 
-## Added Bootstrap framework for styling and responsive
+## Added Bootstrap framework for Styling and Responsive
 
 ## Added Angular Material for Table data and pagination
